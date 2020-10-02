@@ -1,0 +1,21 @@
+class RecentCounter {
+public:
+    queue<int> que;
+    RecentCounter() {
+        
+    }
+    
+    int ping(int t) {
+        if(t < 3000) {
+            que.push(t);
+            return que.size();
+        }
+        int start = t-3000;
+        while(!que.empty() && que.front() < start) {
+            que.pop();
+        }
+        
+        que.push(t);
+        return que.size();
+    }
+};
