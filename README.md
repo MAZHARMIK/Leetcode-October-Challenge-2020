@@ -13,7 +13,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 		<tbody>
 			<tr>
 			  <td>Number of Recent Calls</td>
-        <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Number%20of%20Recent%20Calls"><img src="https://www.fedsmith.com/wp-content/uploads/2016/10/too-many-calls.jpg" width="500" height="240"></a></td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Number%20of%20Recent%20Calls"><img src="https://www.fedsmith.com/wp-content/uploads/2016/10/too-many-calls.jpg" width="400" height="240"></a></td>
+			</tr>
+			<tr>
+			  <td>Combination Sum</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Combination%20Sum%20(Method-2)"><img src="https://ae01.alicdn.com/kf/HTB17uw7SXXXXXcEaXXXq6xXFXXXj/4-Dial-Digit-Number-Combination-Travel-Security-Safely-Code-Password-Lock-Combination-Padlock-Zinc-Alloy-4.jpg" width="400" height="240"></a></td>
 			</tr>
 		</tbody>
 </table>
