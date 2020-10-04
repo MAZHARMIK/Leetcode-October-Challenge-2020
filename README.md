@@ -19,5 +19,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Combination Sum</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Combination%20Sum%20(Method-2)"><img src="https://ae01.alicdn.com/kf/HTB17uw7SXXXXXcEaXXXq6xXFXXXj/4-Dial-Digit-Number-Combination-Travel-Security-Safely-Code-Password-Lock-Combination-Padlock-Zinc-Alloy-4.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>K-diff Pairs in an Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/K-diff%20Pairs%20in%20an%20Array%20(C%2B%2B)"><img src="https://www.topcoder.com/wp-content/uploads/2017/07/binary-search.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
