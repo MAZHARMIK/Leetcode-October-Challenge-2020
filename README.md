@@ -27,5 +27,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Remove Covered Intervals</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Remove%20Covered%20Intervals"><img src="https://i.stack.imgur.com/1Qajl.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Complement of Base 10 Integer</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Complement%20of%20Base%2010%20Integer"><img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/5-74.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
