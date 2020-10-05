@@ -23,5 +23,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>K-diff Pairs in an Array</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/K-diff%20Pairs%20in%20an%20Array%20(C%2B%2B)"><img src="https://www.topcoder.com/wp-content/uploads/2017/07/binary-search.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Remove Covered Intervals</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Remove%20Covered%20Intervals"><img src="https://i.stack.imgur.com/1Qajl.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
