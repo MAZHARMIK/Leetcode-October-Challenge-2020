@@ -31,5 +31,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Complement of Base 10 Integer</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Complement%20of%20Base%2010%20Integer"><img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/5-74.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Insert into a Binary Search Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Insert%20into%20a%20Binary%20Search%20Tree%20(C%2B%2B)"><img src="https://www.gatevidyalay.com/wp-content/uploads/2018/07/Binary-Search-Tree-Example.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
