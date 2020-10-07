@@ -35,5 +35,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Insert into a Binary Search Tree</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Insert%20into%20a%20Binary%20Search%20Tree%20(C%2B%2B)"><img src="https://www.gatevidyalay.com/wp-content/uploads/2018/07/Binary-Search-Tree-Example.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Rotate List</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Rotate%20List"><img src="http://www.ritambhara.in/wp-content/uploads/2012/10/rotate-linked-list.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
