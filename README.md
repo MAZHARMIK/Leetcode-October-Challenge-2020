@@ -39,5 +39,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Rotate List</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Rotate%20List"><img src="http://www.ritambhara.in/wp-content/uploads/2012/10/rotate-linked-list.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Binary Search</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Binary%20Search%20(C%2B%2B)"><img src="https://www.topcoder.com/wp-content/uploads/2017/07/binary-search.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
