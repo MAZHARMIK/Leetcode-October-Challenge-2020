@@ -43,5 +43,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Binary Search</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Binary%20Search%20(C%2B%2B)"><img src="https://www.topcoder.com/wp-content/uploads/2017/07/binary-search.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Serialize and Deserialize BST</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Serialize%20and%20Deserialize%20BST%20(C%2B%2B)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Unbalanced_binary_tree.svg/1200px-Unbalanced_binary_tree.svg.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
