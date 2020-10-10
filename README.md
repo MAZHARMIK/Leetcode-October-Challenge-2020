@@ -47,5 +47,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Serialize and Deserialize BST</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Serialize%20and%20Deserialize%20BST%20(C%2B%2B)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Unbalanced_binary_tree.svg/1200px-Unbalanced_binary_tree.svg.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Minimum Number of Arrows to Burst Balloons</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons"><img src="https://www.bookeventz.com/blog/wp-content/uploads/2016/06/burstingballoons.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
