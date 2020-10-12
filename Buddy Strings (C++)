@@ -1,0 +1,32 @@
+class Solution {
+public:
+    bool sameChar(string& A) {
+        set<char> st;
+        
+        for(char ch:A)
+            st.insert(ch);
+        
+        if(st.size() < A.length())
+            return true;
+        return false;
+    }
+    bool buddyStrings(string A, string B) {
+        int m = A.length();
+        int n = B.length();
+        
+        if(m != n)
+            return false;
+        if(A == B)
+            return sameChar(A);
+            
+        vector<int> index; //this should turn out to be of size 2 only
+        for(int i = 0; i<m; i++) {
+            if(A[i] != B[i])
+                index.push_back(i);
+        }
+        
+        if(index.size() == 2 && A[index[0]] == B[index[1]] && B[index[0]] == A[index[1]])
+            return true;
+        return false;
+    }
+};
