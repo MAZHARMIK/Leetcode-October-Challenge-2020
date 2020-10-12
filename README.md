@@ -51,5 +51,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Minimum Number of Arrows to Burst Balloons</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons"><img src="https://www.bookeventz.com/blog/wp-content/uploads/2016/06/burstingballoons.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Remove Duplicate Letters</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Remove%20Duplicate%20Letters"><img src="https://i.ytimg.com/vi/aZF-CbHNBQ8/maxresdefault.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
