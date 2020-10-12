@@ -1,14 +1,15 @@
 class Solution {
 public:
-    bool sameChar(string& A) {
-        set<char> st;
-        
-        for(char ch:A)
-            st.insert(ch);
-        
-        if(st.size() < A.length())
-            return true;
-        return false;
+    bool checkFreq(string& a) {
+      //if strings are same and there is any character with frequency >= 2 theb=n swap can be done. So, return true
+      int freq[26] = {0};
+      for(int i=0;i<a.length();i++){
+            freq[a[i]-'a']+=1;
+            if(freq[a[i]-'a'] >= 2){
+              return true;
+            }
+      }
+      return false;
     }
     bool buddyStrings(string A, string B) {
         int m = A.length();
@@ -17,7 +18,7 @@ public:
         if(m != n)
             return false;
         if(A == B)
-            return sameChar(A);
+            return checkFreq(A);
             
         vector<int> index; //this should turn out to be of size 2 only
         for(int i = 0; i<m; i++) {
