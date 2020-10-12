@@ -55,5 +55,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Remove Duplicate Letters</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Remove%20Duplicate%20Letters"><img src="https://i.ytimg.com/vi/aZF-CbHNBQ8/maxresdefault.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Buddy Strings</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Buddy%20Strings%20(C%2B%2B)"><img src="https://technologyadvice.com/wp-content/uploads/2014/04/Best-Buddies-Logo.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
