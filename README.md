@@ -59,5 +59,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Buddy Strings</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Buddy%20Strings%20(C%2B%2B)"><img src="https://technologyadvice.com/wp-content/uploads/2014/04/Best-Buddies-Logo.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Sort List</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Sort%20List"><img src="https://i2.wp.com/www.techiedelight.com/wp-content/uploads/Merge-Sort-Steps.png?resize=688%2C652&ssl=1" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
