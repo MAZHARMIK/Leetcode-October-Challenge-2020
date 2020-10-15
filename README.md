@@ -67,5 +67,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>House Robber II</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/House%20Robber%20II"><img src="https://pngimg.com/uploads/thief/thief_PNG20.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Rotate Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Rotating%20an%20Array%20(Reversal%20Algorithm)"><img src="https://cdn.onlinewebfonts.com/svg/img_260845.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
