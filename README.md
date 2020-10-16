@@ -71,5 +71,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Rotate Array</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Rotating%20an%20Array%20(Reversal%20Algorithm)"><img src="https://cdn.onlinewebfonts.com/svg/img_260845.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Search a 2D Matrix</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Search%20a%202D%20Matrix"><img src="https://i.stack.imgur.com/tFdLk.gif" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
