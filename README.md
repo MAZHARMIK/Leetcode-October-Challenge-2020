@@ -75,5 +75,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Search a 2D Matrix</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Search%20a%202D%20Matrix"><img src="https://i.stack.imgur.com/tFdLk.gif" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Repeated DNA Sequences</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Repeated%20DNA%20Sequences"><img src="https://thumbs.dreamstime.com/b/dna-vector-illustration-human-structure-49975743.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
