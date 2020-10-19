@@ -83,5 +83,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Best Time to Buy and Sell Stock IV</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV"><img src="https://qph.fs.quoracdn.net/main-qimg-22b767fe71d966ab81406f6d6fcf630b" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Minimum Domino Rotations For Equal Row</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Domino%20Rotations%20For%20Equal%20Row"><img src="https://publicdomainpictures.net/pictures/40000/velka/domino-1358092503BAW.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
