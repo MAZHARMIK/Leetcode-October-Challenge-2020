@@ -95,5 +95,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Asteroid Collision</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Asteroid%20Collision"><img src="https://i.ytimg.com/vi/ISC3AuTQ7-Y/maxresdefault.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Minimum Depth of Binary Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Minimum%20Depth%20of%20Binary%20Tree"><img src="https://condor.depaul.edu/ntomuro/courses/416/notes/lecture3/tree.gif" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
