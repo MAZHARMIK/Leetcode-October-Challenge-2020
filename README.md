@@ -103,5 +103,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>132 Pattern</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/132%20Pattern%20(Two%20approaches)"><img src="https://i.pinimg.com/736x/dc/b3/2a/dcb32ab5a20df4280ec9a38a9f53b846--shape-patterns-math-patterns.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Bag of Tokens</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Bag%20of%20Tokens"><img src="https://www.trustnodes.com/wp-content/uploads/2018/01/a-token-1175x500.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
