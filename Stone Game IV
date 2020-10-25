@@ -1,0 +1,20 @@
+/*
+    Company Tags  : NIL
+    Leetcode Link : https://leetcode.com/problems/stone-game-iv/    
+*/
+
+class Solution {
+public:
+    bool winnerSquareGame(int n) {
+        vector<bool> t(n+1, false);
+        for (int i = 0; i < n + 1; i++) {
+            for (int j = 1; j * j <= i; j++) {
+                if (t[i - j * j] == false) {
+                    t[i] = true;
+                    break;
+                }
+            }
+        }
+        return t[n];
+    }
+};
