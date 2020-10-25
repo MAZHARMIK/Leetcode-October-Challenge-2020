@@ -107,5 +107,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Bag of Tokens</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Bag%20of%20Tokens"><img src="https://www.trustnodes.com/wp-content/uploads/2018/01/a-token-1175x500.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Stone Game IV</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Stone%20Game%20IV"><img src="http://4.bp.blogspot.com/-xTAPBD4JIP0/TZFgeO9d8rI/AAAAAAAAB4M/21A-q7ltZPc/s1600/021.JPG" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
