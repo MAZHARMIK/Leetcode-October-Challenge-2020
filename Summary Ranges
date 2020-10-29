@@ -1,0 +1,73 @@
+//Two approaches
+
+
+/**************
+O(n) solution
+***************/
+class Solution {
+public:
+    vector<string> summaryRanges(vector<int>& nums) {
+        int n = nums.size();
+        if(n == 0)
+            return {};
+        if(n == 1)
+            return {to_string(nums[0])};
+        
+        vector<string> result;
+        int cache = nums[0];
+        int i = 0;
+        while(i < n-1) {
+            if((long long)nums[i+1]-(long long)nums[i] == 1) {
+                i++;
+            } else {
+                if(cache == nums[i])
+                    result.push_back(to_string(nums[i]));
+                else
+                    result.push_back(to_string(cache) + "->" + to_string(nums[i]));
+                cache = nums[i+1];
+                i++;
+            }
+        }
+        
+        if(cache == nums[i])
+            result.push_back(to_string(nums[i]));
+        else
+            result.push_back(to_string(cache) + "->" + to_string(nums[i]));
+        return result;
+    }
+};
+
+
+
+
+/**************
+O(n^2) solution
+***************/
+class Solution {
+public:
+    vector<string> summaryRanges(vector<int>& nums) {
+        int n = nums.size();
+        if(n == 0)
+            return {};
+        if(n == 1)
+            return {to_string(nums[0])};
+        vector<string> result;
+
+        int i = 0;
+        while(i < n) {
+            int left_left = i;
+            int left = i;
+            int j = i+1;
+            while(j < n && (long long)nums[j]-(long long)nums[left] == 1) {
+                left = j;
+                j++;
+            }
+            if(nums[left_left] == nums[left])
+                result.push_back(to_string(nums[left]));
+            else
+                result.push_back(to_string(nums[left_left]) + "->" + to_string(nums[left]));
+            i = j;
+        }
+        return result;
+    }
+};
