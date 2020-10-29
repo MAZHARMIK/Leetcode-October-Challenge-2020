@@ -119,5 +119,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Linked List Cycle II</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Linked%20List%20Cycle%20II"><img src="https://c8.alamy.com/comp/MN3JWT/cyclic-model-vector-thin-line-stroke-icon-cyclic-model-outline-illustration-linear-sign-symbol-concept-MN3JWT.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Summary Ranges</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Summary%20Ranges"><img src="https://www.wikihow.com/images/c/cc/Find-the-Range-of-a-Data-Set-Step-4.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
