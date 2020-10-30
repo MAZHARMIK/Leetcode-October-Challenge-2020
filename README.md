@@ -129,7 +129,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			</tr>
 			<tr>
 			  <td>Number of Longest Increasing Subsequence</td>
-        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Number%20of%20Longest%20Increasing%20Subsequence"><img src="" width="400" height="240"></a></td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Number%20of%20Longest%20Increasing%20Subsequence"><img src="https://www.programcreek.com/wp-content/uploads/2014/04/longest-increasing-subsequence-leetcode-java-400x358.jpg" width="400" height="240"></a></td>
 			</tr>
 		</tbody>
 </table>
