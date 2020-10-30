@@ -127,5 +127,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Maximize Distance to Closest Person</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Maximize%20Distance%20to%20Closest%20Person"><img src="https://image.shutterstock.com/image-photo/image-450w-375590332.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Number of Longest Increasing Subsequence</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Number%20of%20Longest%20Increasing%20Subsequence"><img src="" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
