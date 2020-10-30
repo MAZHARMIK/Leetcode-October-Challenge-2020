@@ -123,5 +123,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/octob
 			  <td>Summary Ranges</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Summary%20Ranges"><img src="https://www.wikihow.com/images/c/cc/Find-the-Range-of-a-Data-Set-Step-4.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Maximize Distance to Closest Person</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-October-Challenge-2020/blob/main/Maximize%20Distance%20to%20Closest%20Person"><img src="https://image.shutterstock.com/image-photo/image-450w-375590332.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
